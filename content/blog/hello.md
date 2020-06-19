@@ -1,8 +1,8 @@
 ---
 title: "Hello, there"
 date: 2020-06-19
-slug: "rich-text"
-description: "A brief description of Hugo Shortcodes"
+slug: "hello there"
+description: "Just a simple hello message"
 keywords: ["gohugo", "hugo", "go", "blog"]
 draft: false
 tags: ["hello"]
