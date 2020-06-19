@@ -362,8 +362,8 @@ main {
 }
 
 .social-icons__icon {
-    width: 1.3rem;
-    height: 1.3rem;
+    width: 1.2rem;
+    height: 1.2rem;
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -373,54 +373,17 @@ main {
     margin-right: 2rem;
 }
 
-.social-icons__icon--github {
-    background-image: url("/icons/github.svg");
-    margin-right: 2rem;
-}
-
-.social-icons__icon--github-c {
-    background-image: url("/icons/github-c.svg");
-    margin-right: 2rem
-}
-
-.social-icons__icon--linkedin {
-    background-image: url("/icons/linkedin.svg");
-    margin-right: 2rem
-}
-
-.social-icons__icon--linkedin-c {
-    background-image: url("/icons/linkedin-c.svg");
-    margin-right: 2rem
-}
-
-.social-icons__icon--youtube {
-    background-image: url("/icons/youtube.svg");
-    margin-right: 2rem
-}
-
-.social-icons__icon--youtube-c {
-    background-image: url("/icons/youtube-c.svg");
-    margin-right: 2rem
-}
-
-.social-icons__icon--gmail {
-    background-image: url("/icons/gmail.svg");
-    margin-right: 2rem
-}
-
-.social-icons__icon--gmail-c {
-    background-image: url("/icons/gmail-c.svg");
-    margin-right: 2rem
-}
-
-.social-icons__icon--resume {
-    background-image: url("/icons/resume.svg");
-    margin-right: 2rem
-}
-
+.social-icons__icon--github,
+.social-icons__icon--github-c,
+.social-icons__icon--linkedin,
+.social-icons__icon--linkedin-c,
+.social-icons__icon--youtube,
+.social-icons__icon--youtube-c,
+.social-icons__icon--gmail,
+.social-icons__icon--gmail-c,
+.social-icons__icon--resume,
 .social-icons__icon--resume-c {
-    background-image: url("/icons/resume-c.svg");
-    margin-right: 2rem
+    margin-right: 2rem;
 }
 
 /* Animation for icons */
