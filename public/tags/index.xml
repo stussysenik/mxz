@@ -6,71 +6,26 @@
     <description>Recent content in Tags on Senik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mxz.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>css</title>
-      <link>https://mxz.netlify.app/tags/css/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <title>learning</title>
+      <link>https://mxz.netlify.app/tags/learning/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mxz.netlify.app/tags/css/</guid>
+      <guid>https://mxz.netlify.app/tags/learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>html</title>
-      <link>https://mxz.netlify.app/tags/html/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <title>hello</title>
+      <link>https://mxz.netlify.app/tags/hello/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mxz.netlify.app/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://mxz.netlify.app/tags/markdown/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mxz.netlify.app/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>https://mxz.netlify.app/tags/math/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mxz.netlify.app/tags/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://mxz.netlify.app/tags/shortcodes/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mxz.netlify.app/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://mxz.netlify.app/tags/themes/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mxz.netlify.app/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://mxz.netlify.app/tags/hugo/</link>
-      <pubDate>Thu, 04 Jun 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://mxz.netlify.app/tags/hugo/</guid>
+      <guid>https://mxz.netlify.app/tags/hello/</guid>
       <description></description>
     </item>
     

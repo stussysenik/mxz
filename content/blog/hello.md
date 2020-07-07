@@ -1,17 +1,16 @@
 ---
 title: "Hello, there"
 date: 2020-06-19
-slug: "hello there"
+slug: "hellothere"
 description: "Just a simple hello message"
-keywords: ["gohugo", "hugo", "go", "blog"]
+keywords: ["helloworld", "senik", "programming", "blog"]
 draft: false
 tags: ["hello"]
 stylesheet: "post.css"
+math: true
 ---
 
-## The standard Lorem Ipsum passage
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+I'm Senik, and welcome to my blog. Occasionally, I will be posting on the topics of programming, recent issues, ponder upon some interesting questions or just give some updates on my everyday life. Anyways, thanks for visiting and check out my latest post 😉
 
 
 # 

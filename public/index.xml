@@ -1,51 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Senik</title>
+    <title>Senik | Not Sanik or Sonic on Senik</title>
     <link>https://mxz.netlify.app/</link>
-    <description>Recent content on Senik</description>
+    <description>Recent content in Senik | Not Sanik or Sonic on Senik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mxz.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://mxz.netlify.app/blog/markdown-syntax-guide/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Stop creating, start breaking</title>
+      <link>https://mxz.netlify.app/blog/stop-creating-start-breaking/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mxz.netlify.app/blog/markdown-syntax-guide/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>https://mxz.netlify.app/blog/stop-creating-start-breaking/</guid>
+      <description>Naturally, we are all lifelong learners. It doesn&amp;rsquo;t matter whether you are learning a language, a skill or you just enjoy the process of learning, whatever is the case I have a tip for you. Well, before I go into it, let&amp;rsquo;s start with a motto that is very popular within the community of makers, doers, or all those so-called problem solvers. Don&amp;rsquo;t get me wrong on this, but nowadays I feel like people are either CEOs or fall into one of those categories.</description>
     </item>
     
     <item>
-      <title>Math Typesetting</title>
-      <link>https://mxz.netlify.app/blog/math-typesetting/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Hello, there</title>
+      <link>https://mxz.netlify.app/blog/hellothere/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mxz.netlify.app/blog/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://mxz.netlify.app/blog/rich-text/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mxz.netlify.app/blog/rich-text/</guid>
-      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-Instagram Simple Shortcode .__h_instagram.card { font-family: -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif; font-size: 14px; border: 1px solid rgb(219, 219, 219); padding: 0; margin-top: 30px; } .__h_instagram.card .card-header, .__h_instagram.card .card-body { padding: 10px 10px 10px; } .__h_instagram.card img { width: 100%; height: auto; }  koloot.</description>
-    </item>
-    
-    <item>
-      <title>Welcome To Codex</title>
-      <link>https://mxz.netlify.app/blog/example-post/</link>
-      <pubDate>Thu, 04 Jun 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://mxz.netlify.app/blog/example-post/</guid>
-      <description>The standard Lorem Ipsum passage &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://mxz.netlify.app/blog/hellothere/</guid>
+      <description>I&amp;rsquo;m Senik, and welcome to my blog. Occasionally, I will be posting on the topics of programming, recent issues, ponder upon some interesting questions or just give some updates on my everyday life. Anyways, thanks for visiting and check out my latest post 😉
+   </description>
     </item>
     
   </channel>
