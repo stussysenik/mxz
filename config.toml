@@ -1,4 +1,4 @@
-baseURL = "https://mxz.netlify.app/"
+baseURL = "https://senik.netlify.app/"
 languageCode = "en-us"
 title = "Senik"
 theme = "codex"
@@ -6,7 +6,7 @@ theme = "codex"
 
 [params]
   twitter = "mill_zou"
-  github = "senik456"
+  github = "millzzz"
   linkedin = "mengxuanzou"
 
 [[menu.main]]
