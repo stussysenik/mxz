@@ -3,42 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mxz.netlify.app/blog/</loc>
+    <loc>https://senik.netlify.app/blog/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mxz.netlify.app/tags/learning/</loc>
+    <loc>https://senik.netlify.app/tags/learning/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mxz.netlify.app/</loc>
+    <loc>https://senik.netlify.app/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mxz.netlify.app/blog/stop-creating-start-breaking/</loc>
+    <loc>https://senik.netlify.app/blog/stop-creating-start-breaking/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mxz.netlify.app/tags/</loc>
+    <loc>https://senik.netlify.app/tags/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mxz.netlify.app/tags/hello/</loc>
+    <loc>https://senik.netlify.app/posts/netlify-cms/</loc>
+    <lastmod>2020-06-19T13:43:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://senik.netlify.app/posts/</loc>
+    <lastmod>2020-06-19T13:43:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://senik.netlify.app/tags/hello/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mxz.netlify.app/blog/hellothere/</loc>
+    <loc>https://senik.netlify.app/blog/hellothere/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mxz.netlify.app/categories/</loc>
+    <loc>https://senik.netlify.app/categories/</loc>
   </url>
   
 </urlset>

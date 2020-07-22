@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Senik</title>
+    <link>https://senik.netlify.app/posts/</link>
+    <description>Recent content in Posts on Senik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jun 2020 13:43:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://senik.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Netlify CMS</title>
+      <link>https://senik.netlify.app/posts/netlify-cms/</link>
+      <pubDate>Fri, 19 Jun 2020 13:43:57 +0000</pubDate>
+      
+      <guid>https://senik.netlify.app/posts/netlify-cms/</guid>
+      <description>Yay, I&amp;rsquo;m the first blog post using Netlify CMS</description>
+    </item>
+    
+  </channel>
+</rss>

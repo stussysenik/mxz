@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Senik</title>
-    <link>https://mxz.netlify.app/tags/</link>
+    <link>https://senik.netlify.app/tags/</link>
     <description>Recent content in Tags on Senik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mxz.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://senik.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>learning</title>
-      <link>https://mxz.netlify.app/tags/learning/</link>
+      <link>https://senik.netlify.app/tags/learning/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mxz.netlify.app/tags/learning/</guid>
+      <guid>https://senik.netlify.app/tags/learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hello</title>
-      <link>https://mxz.netlify.app/tags/hello/</link>
+      <link>https://senik.netlify.app/tags/hello/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mxz.netlify.app/tags/hello/</guid>
+      <guid>https://senik.netlify.app/tags/hello/</guid>
       <description></description>
     </item>
     
