@@ -4,7 +4,7 @@ date: 2020-06-19
 slug: "cheatsheet"
 description: "Markup cheatsheet"
 keywords: ["hugo"]
-draft: false
+draft: true
 tags: [""]
 stylesheet: "post.css"
 math: true
