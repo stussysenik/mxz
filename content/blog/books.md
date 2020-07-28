@@ -47,7 +47,7 @@ The most common scenario is when a book becomes boring. Truthfully, not every pa
 ### Lastly, frequency doesn't matter
 For a long time, I tried to have a strict schedule for reading. For instance, I would set specific times during the day for my reading sessions. Now, I don't find inconsistency as an issue. There could be days when I'm not reading any book, and then days when I'm sinking deep into reading. Every year, I create a book list or have an estimated count of books I want to finish. What's most important to me, is always to get back on track with the goal.
 
-If you made it here, I'm more than proud of you- it means a lot to me! All kinds of comments are welcome, stay well, and be cool :) [Click to find out what Senik is reading](https://www.notion.so/Reading-List-2020-54022983a6584f93ba0c4b108046cce7)
+Each of us functions a bit differently, and what works for others doesn't have to work for you. A piece of advice is good advice, only when it is beneficial to you, no matter who said or suggested it. Don't let the clout swallow you. If you made it here, I'm more than proud of you- it means a lot to me! All kinds of comments are welcome, stay well, and be cool :) [Click to find out what Senik is reading](https://www.notion.so/Reading-List-2020-54022983a6584f93ba0c4b108046cce7)
 
 <!-- ##### Reading list 2020
 * ~~Deep Work~~ - 7/10
