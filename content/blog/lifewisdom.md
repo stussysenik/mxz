@@ -1,5 +1,5 @@
 ---
-title: "Life Wisdom I hold"
+title: "The life wisdom I hold"
 date: 2020-07-28
 slug: "life-wisdom"
 description: "A blog post about my life wisdom"
