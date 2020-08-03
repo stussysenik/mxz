@@ -26,13 +26,15 @@ If you think about it, how many times you told yourself that you will be happy o
 
 I bet that all the enthusiasm and happiness was just momentary, in the end, you were left with a bland feeling of accomplishment. Work and do things (not necessarily hard), because you feel like so and you want, not to seek the goal. I know that I'm not the smartest (I will never be) or have the richest background but here's the thing, I'm too young and too ambitious not to work hard.
 
-#### Future.
+<!-- #### Future.
 One day, I would love to become financially sustainable while being also able to give back to my parents. Maybe, I will own a startup or a company when the right time comes, but I'm not waiting for the lighting to strike me with the bestest ideas ever. 
 
 Even though I'm still not very sure what I want to pursue as my career, I know very well what I don't want to do. I do have a vision, but not a decision yet. I don't want to be stuck in a corporate job from 9 to 5. I don't want to live a busy life where there won't be enough time for the things and people I care about the most. I want to try and explore things when I still can afford to when the stakes aren't high.
 
-I'm a curious person who wonders a lot. Who doesn't want to let ideas just be those ideas.  In the end, it truly doesn't matter who do you think you are. Your actions will always have a higher say than your words. Hopefully, someday I will be able to look back at this post and be happy about the decisions I made while not losing my original ambitions.
+I'm a curious person who wonders a lot. Who doesn't want to let ideas just be those ideas.  In the end, it truly doesn't matter who do you think you are. Your actions will always have a higher say than your words. Hopefully, someday I will be able to look back at this post and be happy about the decisions I made while not losing my original ambitions. -->
 
-The world is a crazy place, let's enjoy it together, and leave it better than we founded.
 
-Peace out✌
+<!-- The world is a crazy place, with infinite opportunities.  -->
+Just go with the flow, and think with your heart.
+
+<!-- Peace out✌ -->

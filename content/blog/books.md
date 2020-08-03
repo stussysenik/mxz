@@ -26,14 +26,14 @@ It was this sentence that I stumbled upon:
 
 Following his rule, I would literally finish every book I started. It didn't matter whether it was an encyclopedia, novel, self-help book, or a magazine. I would read it wholly anyways because rules aren't meant to be broken. It wasn't until this year when I finally realized that this advice doesn't work quite well for me. I couldn't leave things unfinished, it felt just awkward. An unfinished book to me was like unfinished sex. You both were giving hope to each other, and then you suddenly decide to back out at the last minute. Who does that? Well, let's face the truth, not every book is meant to be finished.
 
-### How do you see it?
+### How do I see it?
 The way how I see it, time is limited and with the amount of time given to us, there is only a specific number of books you will be able to read. Obviously, you won't be able to read all of the books ever produced and it shouldn't even be your goal to ever reach the upper bound. At this moment, let's just talk about the books we choose to read solely out of our interest or curiosity (no mandatory school reading, research papers, company handbooks, etc.).
 
 When it comes to book reading, I believe what matters the most is how deeply a book resonates with you. It is great if you can read twelve books per year, but it is not so great when you can't recall any of them. In this case, [the law of diminishing returns](https://www.britannica.com/topic/diminishing-returns) is a big factor here.
 It's not necessarily the count that is the issue, but how you engage with the content.
 Some of you might just simplify things by saying: "Oh, he is just talking about the quality over quantity concept", but that's not what I mean.
 
-Looking at the problem from the other end, how many books fascinated you enough that made you reread them at least twice? If you have already encountered a book like that, then congratulations those are exactly the gems, you are looking for. All in all, we are all looking for answers to our questions when we are reading. Looking for something that could either make our mind wander for days or fill the information gap.
+Looking at the problem from the other end, how many books fascinated you enough that made you reread them at least twice? If you have already encountered a book like that, then congratulations those are exactly the gems, you are looking for. All in all, we are all looking for answers to our questions when we are reading. Looking for something that could either make our mind wonder for days or fill the information gap.
 
 ### Am I really interested in this book?
 When choosing a book, the single most important thing is to ask yourself whether this book will really bring value to you. I have encountered many occasions where somebody recommended me a book, and I started mindlessly reading it on the recommendation. It can be a hit or miss process, but not if you preread a chapter of it before you fully determine to start the book.
