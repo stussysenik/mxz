@@ -4,7 +4,7 @@ date: 2020-07-28
 slug: "life-wisdom"
 description: "A blog post about my life wisdom"
 keywords: ["mindset", "life", "wisdom"]
-draft: false
+draft: true
 tags: ["thoughts"]
 stylesheet: "post.css"
 ---
