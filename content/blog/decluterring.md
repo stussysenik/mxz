@@ -14,8 +14,7 @@ To some extent, everybody overthinks things. Some more, some less, but ultimatel
 
 I'm not gonna go round and round by stating some pretentious bullshit to waste your time. It's simple as that, grab a pencil and a piece of paper. Write all the thoughts down and just leave it. Turn off and avoid any unnecessary distractions. Play some good music and watch a movie. Go explore nature and come together with your loved ones. Take a hot shower and get some good rest.
 
-The key is to not deal with the issue. If after all of this you are still looking for answers to your problem, whatever is the case, just fuck it. As Billie Eillish says it:
+The key is to not deal with the issue. If after all of this you are still looking for answers to your problem, whatever is the case, just f*ck it. As Billie Eillish says it:
 >Everyone is gonna die and no one's gonna remember you, so...fuck it
 
-The problem will unwrap itself, just don't be sad it's such a waste of time, and it's not worth it.
-
+The problem will untangle itself, but not with the help of your chain of what-ifs.
