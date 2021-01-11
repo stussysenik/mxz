@@ -1,7 +1,7 @@
 ---
 title: "okay, so what's next?"
 date: 2021-01-10
-slug: "questions"
+slug: "okay-so-whats-next"
 # description: "Just a simple hello message"
 # keywords: ["", "", "", ""]
 draft: false
