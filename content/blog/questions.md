@@ -31,6 +31,8 @@ Although time fosters the process, it isn't the main cause of start-end-ism. In 
 
 At the crucial moment, I hesitated. What do I actually want to be known for? Why start a startup? Why college? Why Computer Science? Why the community you are part of? If you had asked me these questions two years ago, a determined Senik with boldness in his voice would have answered. The college admission process—something I've been working towards for years—was the most perplexing chapter of my life, making me question my "[Why?](https://www.youtube.com/watch?v=u4ZoJKF_VuA&ab_channel=TEDxTalks)" **What is the thing that propels your behavior and actions?**
 
+>I always—my English teacher taught me not to use extremisms as always, but I mean it right now—took my purposefulness for granted, until it vanished into dust…
+
 As result, I’ve been experiencing a brain fog where everything seemed like a commitment, pinballing my way through mind traps and dealing with MFEOP in uncontrollable ways [similar to Home Alone.](https://www.youtube.com/watch?v=9ImQL1tM4sw&feature=emb_logo&ab_channel=MulaMovieclips) At one point, I even started inquiring about K-Pop auditions—maybe I was destined to do so.
 
 ### Onto the next journey
@@ -42,4 +44,4 @@ to a few of them. Historically, talented people changed careers with a snap of f
 
 What seems like a justifiable purpose for our time being is relevant only for moments, therefore starting points should serve as a foundation and ending points as compasses, to which we strive to incline. I'm not sure how to fight this phenomenon (I almost believe we're subconsciously assigned one) but I know that investing in systems and processes is most lucrative in the long-term game, regardless of your original intentions.
 
-Maybe, all of this is just my observation from my pandemic life, but nonetheless, I did found myself lost. I haven't fully recovered from my mind trap but the truth is I want to risk when the stakes are still low, otherwise, what is the meaning of being young? 🍀
+Maybe, all of this is just my observation from my pandemic life, but nonetheless I found it worth sharing. I haven't fully recovered from my mind trap but the truth is I want to risk when the stakes are still low, otherwise, what is the real meaning of being young? 🍀
