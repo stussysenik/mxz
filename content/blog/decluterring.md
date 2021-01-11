@@ -4,7 +4,7 @@ date: 2020-08-03
 slug: "deal-with-overthinking"
 description: "A simple advice on how to deal with overthinking"
 keywords: ["overthinking","cure","anxiety","stress"]
-draft: false
+draft: true
 tags: ["thoughts"]
 stylesheet: "post.css"
 ---

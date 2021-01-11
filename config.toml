@@ -2,6 +2,7 @@ baseURL = "https://senik.netlify.app/"
 languageCode = "en-us"
 title = "Senik"
 theme = "codex"
+ignoreErrors = ["error-remote-getjson"]
 
 
 [params]

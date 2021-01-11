@@ -1,5 +1,5 @@
 ---
-title: "Stop creating, start breaking"
+title: "stop creating, start breaking"
 date: 2020-07-06
 slug: "stop-creating-start-breaking"
 description: "A great tip on the process of learning"

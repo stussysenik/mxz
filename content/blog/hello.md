@@ -1,11 +1,10 @@
 ---
-title: "Hello, there"
+title: "hello, there"
 date: 2020-06-19
 slug: "hellothere"
 description: "Just a simple hello message"
 keywords: ["helloworld", "senik", "programming", "blog"]
 draft: false
-tags: ["hello"]
 stylesheet: "post.css"
 math: true
 ---

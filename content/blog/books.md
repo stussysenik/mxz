@@ -1,5 +1,5 @@
 ---
-title: "Thoughts on reading | Reading list 2020"
+title: "thoughts on reading | reading list 2020"
 date: 2020-07-27
 slug: "thoughts-on-reading"
 description: "My experience with reading and choosing books. How my approach to reading has shifted over the years."
