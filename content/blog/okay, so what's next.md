@@ -2,8 +2,8 @@
 title: "okay, so what's next?"
 date: 2021-01-10
 slug: "okay-so-whats-next"
-# description: "Just a simple hello message"
-# keywords: ["", "", "", ""]
+description: "Reflection on 2020"
+keywords: ["2020", "new year resolution", "purpose", "life"]
 draft: false
 tags: ["thoughts"]
 stylesheet: "post.css"
