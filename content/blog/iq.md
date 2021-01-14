@@ -8,6 +8,7 @@ draft: false
 tags: ["thoughts"]
 stylesheet: "post.css"
 ---
+![Rubik's cube](https://images.unsplash.com/photo-1539627831859-a911cf04d3cd?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8c21hcnR8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60)
 
 In the history of humans, figures as Stephen Hawking, Isaac Newton, Albert Einstein, Johann Goethe, Leonardo da Vinci or Terrence Tao were commonly listed as the smartest individuals in the world. But especially Terence Tao's IQ score of presumed 230 got me thinking:
 >If someone like Terrence Tao scores an abnormal IQ score, does the score assume that the creator of the test sustains the same or higher score too?
@@ -17,6 +18,8 @@ In the history of humans, figures as Stephen Hawking, Isaac Newton, Albert Einst
 Initially, Alfred Binet invented a method of measuring IQ simply calculated by dividing the test taker's mental age by his or her chronological age and then multiplying this number by 100. I find this method obscure and I won't be delving into the history of IQ testing—I'm interested in the conceptual question instead.
 
 More often, we're familiar with the so-called intelligence tests which include graphical logical questions testing dimensional thinking, arithmetic abilities, pattern matching, etc. After completion, you are given a raw score that usually follows this table:
+
+![IQ score table](https://testmymetrics.com/wp-content/uploads/2019/08/Table.jpg)
 
 Surely, a few people outpace this metric table since the nations gathered the smartest scientists and psychologists (by theory they should have 160 at the very least) to create these tests, but to what degree result valid?
 

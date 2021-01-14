@@ -4,11 +4,19 @@ title = "Senik"
 theme = "codex"
 ignoreErrors = ["error-remote-getjson"]
 
-
 [params]
   twitter = "mill_zou"
   github = "millzzzz"
   linkedin = "mengxuanzou"
+  showPageTitleInTOC = true
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+    
+  # Set to false to disallow raw HTML in markdown files
+  [markup.goldmark.renderer]
+      unsafe = true
 
 [[menu.main]]
   identifier = "about"
