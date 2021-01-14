@@ -8,6 +8,8 @@ draft: false
 tags: ["thoughts"]
 stylesheet: "post.css"
 ---
+![Rubik's cube](https://images.unsplash.com/photo-1539627831859-a911cf04d3cd?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8c21hcnR8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60)
+
 In the history of humans, figures as Stephen Hawking, Isaac Newton, Albert Einstein, Johann Goethe, Leonardo da Vinci or Terrence Tao were commonly listed as the smartest individuals in the world. But especially Terence Tao's IQ score of presumed 230 got me thinking:
 >If someone like Terrence Tao scores an abnormal IQ score, does the score assume that the creator of the test sustains the same or higher score too?
 
