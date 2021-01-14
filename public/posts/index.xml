@@ -6,11 +6,7 @@
     <description>Recent content in Posts on Senik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2020 13:43:57 +0000</lastBuildDate>
-    
-	<atom:link href="https://senik.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 19 Jun 2020 13:43:57 +0000</lastBuildDate><atom:link href="https://senik.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify CMS</title>
       <link>https://senik.netlify.app/posts/netlify-cms/</link>

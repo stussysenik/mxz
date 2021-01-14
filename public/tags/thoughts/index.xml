@@ -6,18 +6,26 @@
     <description>Recent content in thoughts on Senik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://senik.netlify.app/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://senik.netlify.app/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>230 IQ ≠ intelligent</title>
+      <link>https://senik.netlify.app/blog/iq/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://senik.netlify.app/blog/iq/</guid>
+      <description>In the history of humans, figures as Stephen Hawking, Isaac Newton, Albert Einstein, Johann Goethe, Leonardo da Vinci or Terrence Tao were commonly listed as the smartest individuals in the world. But especially Terence Tao&amp;rsquo;s IQ score of presumed 230 got me thinking:
+ If someone like Terrence Tao scores an abnormal IQ score, does the score assume that the creator of the test sustains the same or higher score too?</description>
+    </item>
     
     <item>
-      <title>How to deal with overthinking</title>
-      <link>https://senik.netlify.app/blog/deal-with-overthinking/</link>
-      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <title>okay, so what&#39;s next?</title>
+      <link>https://senik.netlify.app/blog/okay-so-whats-next/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://senik.netlify.app/blog/deal-with-overthinking/</guid>
-      <description>In this world, no two minds think alike. We might have same intentions but each of us think bit differently. To some extent, everybody overthinks things. Some more, some less, but ultimately it is in our nature to overthink. I define overthinking as the chain of excessive overwhelming thoughts that lead us to a circle of insecurity. They may make you not fall asleep easily. Doubt yourself. Make you less confident, or unsteady.</description>
+      <guid>https://senik.netlify.app/blog/okay-so-whats-next/</guid>
+      <description>Side note: I&amp;rsquo;m still exploring my niche, meaning the central topics of my blog. As of now, I&amp;rsquo;m exploring what to write about and somehow these brain foods are interesting to me.
+Since childhoods, we were cradled in the so-called &amp;ldquo;start-end-ism.&amp;rdquo; If you are looking for a definition, there is none. I made the term up, and I will try to convey the idea behind it.
+What do you think it is?</description>
     </item>
     
   </channel>

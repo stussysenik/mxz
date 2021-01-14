@@ -3,27 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://senik.netlify.app/blog/</loc>
-    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
+    <loc>https://senik.netlify.app/blog/iq/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://senik.netlify.app/tags/learning/</loc>
-    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
+    <loc>https://senik.netlify.app/blog/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://senik.netlify.app/</loc>
-    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://senik.netlify.app/blog/stop-creating-start-breaking/</loc>
-    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://senik.netlify.app/tags/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://senik.netlify.app/tags/thoughts/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://senik.netlify.app/blog/smashing-the-piggy-bank-part1/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://senik.netlify.app/tags/yearly/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://senik.netlify.app/blog/okay-so-whats-next/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://senik.netlify.app/tags/learning/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://senik.netlify.app/blog/thoughts-on-reading/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://senik.netlify.app/blog/stop-creating-start-breaking/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,12 +68,12 @@
   </url>
   
   <url>
-    <loc>https://senik.netlify.app/tags/hello/</loc>
+    <loc>https://senik.netlify.app/blog/hellothere/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://senik.netlify.app/blog/hellothere/</loc>
+    <loc>https://senik.netlify.app/blog/cheatsheet/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url>
   

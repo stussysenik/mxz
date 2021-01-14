@@ -6,26 +6,31 @@
     <description>Recent content in Tags on Senik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://senik.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://senik.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>learning</title>
-      <link>https://senik.netlify.app/tags/learning/</link>
-      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <title>thoughts</title>
+      <link>https://senik.netlify.app/tags/thoughts/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://senik.netlify.app/tags/learning/</guid>
+      <guid>https://senik.netlify.app/tags/thoughts/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hello</title>
-      <link>https://senik.netlify.app/tags/hello/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <title>yearly</title>
+      <link>https://senik.netlify.app/tags/yearly/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://senik.netlify.app/tags/hello/</guid>
+      <guid>https://senik.netlify.app/tags/yearly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learning</title>
+      <link>https://senik.netlify.app/tags/learning/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://senik.netlify.app/tags/learning/</guid>
       <description></description>
     </item>
     

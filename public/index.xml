@@ -6,13 +6,49 @@
     <description>Recent content in Senik | Not Sanik or Sonic on Senik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://senik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://senik.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>230 IQ ≠ intelligent</title>
+      <link>https://senik.netlify.app/blog/iq/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://senik.netlify.app/blog/iq/</guid>
+      <description>In the history of humans, figures as Stephen Hawking, Isaac Newton, Albert Einstein, Johann Goethe, Leonardo da Vinci or Terrence Tao were commonly listed as the smartest individuals in the world. But especially Terence Tao&amp;rsquo;s IQ score of presumed 230 got me thinking:
+ If someone like Terrence Tao scores an abnormal IQ score, does the score assume that the creator of the test sustains the same or higher score too?</description>
+    </item>
     
     <item>
-      <title>Stop creating, start breaking</title>
+      <title>smashing the 🐽 bank #2020 part1</title>
+      <link>https://senik.netlify.app/blog/smashing-the-piggy-bank-part1/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://senik.netlify.app/blog/smashing-the-piggy-bank-part1/</guid>
+      <description>I figured I would like to create a series on best buys or products I&amp;rsquo;ve enjoyed the most of each year. I&amp;rsquo;m not sure whether I will be sticking to the &amp;ldquo;Smashing the Piggy Bank&amp;rdquo; name but I like it now. Speaking for myself, I&amp;rsquo;m pretty intentional about my purchases and don&amp;rsquo;t have any unjustifiable yearnings —okay, maybe Teslas are hot. Just saying, my friends. *blink* *blink*`
+In Part 1, I&amp;rsquo;m mostly covering the digital tools and some physical products I enjoyed last year where the majority is for free.</description>
+    </item>
+    
+    <item>
+      <title>okay, so what&#39;s next?</title>
+      <link>https://senik.netlify.app/blog/okay-so-whats-next/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://senik.netlify.app/blog/okay-so-whats-next/</guid>
+      <description>Side note: I&amp;rsquo;m still exploring my niche, meaning the central topics of my blog. As of now, I&amp;rsquo;m exploring what to write about and somehow these brain foods are interesting to me.
+Since childhoods, we were cradled in the so-called &amp;ldquo;start-end-ism.&amp;rdquo; If you are looking for a definition, there is none. I made the term up, and I will try to convey the idea behind it.
+What do you think it is?</description>
+    </item>
+    
+    <item>
+      <title>thoughts on reading | reading list 2020</title>
+      <link>https://senik.netlify.app/blog/thoughts-on-reading/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://senik.netlify.app/blog/thoughts-on-reading/</guid>
+      <description>Side note: this blog post is longer than I expected, so if you are just here for some book recommendations, scroll to the bottom of page I&amp;rsquo;m an avid reader, I read a lot. When I was younger, I could spent dozens of hours in library, checking out all sort of genres. As it is, the times have changed, and maybe just like you, I&amp;rsquo;m slowly losing interest in books too.</description>
+    </item>
+    
+    <item>
+      <title>stop creating, start breaking</title>
       <link>https://senik.netlify.app/blog/stop-creating-start-breaking/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
@@ -30,13 +66,22 @@
     </item>
     
     <item>
-      <title>Hello, there</title>
+      <title>hello, there</title>
       <link>https://senik.netlify.app/blog/hellothere/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://senik.netlify.app/blog/hellothere/</guid>
       <description>I&amp;rsquo;m Senik, and welcome to my blog. Occasionally, I will be posting on the topics of programming, recent issues, ponder upon some interesting questions or just give some updates on my everyday life. Anyways, thanks for visiting and check out my latest post 😉
    </description>
+    </item>
+    
+    <item>
+      <title>Hugo template</title>
+      <link>https://senik.netlify.app/blog/cheatsheet/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://senik.netlify.app/blog/cheatsheet/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
   </channel>
