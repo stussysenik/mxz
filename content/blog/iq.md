@@ -37,7 +37,9 @@ This is a sneak peek into the underlying flaws, and my big point is this: "*IQ a
 
 ### Conclusion
 
-To be able to test someone on a topic, the person by itself has to be competent enough—duh, right? But as you see, the creators of IQ tests didn’t expect people like Terence Tao, meaning that IQ tests more come from a pragmatic standpoint and less from the need to estimate one's intellect. Inherently, all smart minds are unchained by standards, rules, and conventions and they just don't need to be told that they're smart. What makes individuals smart isn't a quantitative score but the relentless urge to discover new findings, explore curiosity, and expanding their horizons. At their playgrounds, they connect the dots of our world and give it a transformative spin whether it is by releasing a research paper, shooting videos, developing technology, and more. Score metrics, achievements, and recognitions are all side effects of the journey. Essentially, they never exit their childhood stage of asking "**Whats, Whies and Hows**." 
+To be able to test someone on a topic, the person by itself has to be competent enough—duh, right? But as you see, the creators of IQ tests didn’t expect people like Terence Tao, meaning that IQ tests more come from a pragmatic standpoint and less from the need to estimate one's intellect. Inherently, all smart minds are unchained by standards, rules, and conventions and they just don't need to be told that they're smart. 
+
+What makes individuals smart isn't a quantitative score but the relentless urge to discover new findings, explore curiosity, and expanding their horizons. At their playgrounds, they connect the dots of our world and give it a transformative spin whether it is by releasing a research paper, shooting videos, developing technology, and more. Score metrics, achievements, and recognitions are all side effects of the journey. Essentially, they never exit their childhood stage of asking "**Whats, Whies and Hows**." 
 
 High IQ scores are sexy but they can take you only as far, in all cases, intellectual adventures and learning for mastery should be the ultimate goal of education.🚀
 
