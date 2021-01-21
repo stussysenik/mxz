@@ -3,9 +3,10 @@ languageCode = "en-us"
 title = "Senik"
 theme = "codex"
 ignoreErrors = ["error-remote-getjson"]
+copyright = "©mxzou {year}"
 
 [params]
-  twitter = "mill_zou"
+  twitter = "mx_zou"
   github = "millzzzz"
   linkedin = "mengxuanzou"
   showPageTitleInTOC = true
@@ -29,6 +30,3 @@ ignoreErrors = ["error-remote-getjson"]
   name = "blog"
   title = "Blog"
   url = "/blog"
-
-
-

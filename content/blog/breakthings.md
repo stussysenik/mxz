@@ -7,6 +7,7 @@ keywords: ["programming", "create", "make", "blog"]
 draft: false
 tags: ["learning"]
 stylesheet: "post.css"
+toc: true
 ---
 
 Naturally, we are all lifelong learners. It doesn't matter whether you are learning a language, a skill or you just enjoy the process of learning, whatever is the case I have a tip for you. Well, before I go into it, let's start with a motto that is very popular within the community of makers, doers, or all those so-called problem solvers. Don't get me wrong on this, but nowadays I feel like people are either CEOs or fall into one of those categories. At some point in your life, you must have heard something that went along these lines: "*Stop learning, and start creating.*"

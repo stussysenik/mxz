@@ -7,6 +7,7 @@ keywords: ["reading", "list", "books", "2020", "thoughts"]
 draft: false
 tags: ["learning"]
 stylesheet: "post.css"
+toc: true
 ---
 
 ##### Side note: this blog post is longer than I expected, so if you are just here for some book recommendations, scroll to the bottom of page

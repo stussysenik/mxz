@@ -7,6 +7,7 @@ keywords: ["helloworld", "senik", "programming", "blog"]
 draft: false
 stylesheet: "post.css"
 math: true
+toc: true
 ---
 
 I'm Senik, and welcome to my blog. Occasionally, I will be posting on the topics of programming, recent issues, ponder upon some interesting questions or just give some updates on my everyday life. Anyways, thanks for visiting and check out my latest post 😉

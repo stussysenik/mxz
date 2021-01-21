@@ -7,6 +7,7 @@ keywords: ["IQ","tests"]
 draft: false
 tags: ["thoughts"]
 stylesheet: "post.css"
+toc: true
 ---
 ![Rubik's cube](https://images.unsplash.com/photo-1539627831859-a911cf04d3cd?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8c21hcnR8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60)
 
