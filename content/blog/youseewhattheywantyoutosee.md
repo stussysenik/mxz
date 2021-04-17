@@ -4,7 +4,7 @@ date: 2021-01-21
 slug: "we see what they want us to see"
 description: ""
 keywords: ["disinformation", "tv shows", "reality"]
-draft: false
+draft: true
 tags: ["thoughts"]
 stylesheet: "post.css"
 toc: true

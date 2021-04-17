@@ -1,5 +1,5 @@
 ---
-title: "thoughts on reading | reading list 2020"
+title: "thoughts on reading"
 date: 2020-07-27
 slug: "thoughts-on-reading"
 description: "My experience with reading and choosing books. How my approach to reading has shifted over the years."
@@ -10,45 +10,41 @@ stylesheet: "post.css"
 toc: true
 ---
 
-##### Side note: this blog post is longer than I expected, so if you are just here for some book recommendations, scroll to the bottom of page
+When I was younger, I could spend dozens of hours in libraries. However, the times have changed, and maybe just like me, you also used to like books when growing up, but now I'm barely able to finish a book in a month. In my case, there are two reasons behind it. The first one is obvious, a bundle of sheets tightened together isn't as attractive as all those devices with 4k resolutions, or AR/VR technologies. But more importantly, I lost joy in books because of a personal rule Bill Gates mentioned in an interview for Quartz.
 
-I'm an avid reader, I read a lot. When I was younger, I could spent dozens of hours in library, checking out all sort of genres. As it is, the times have changed, and maybe just like you, I'm slowly losing interest in books too.
-
-For one, thanks to the development of technology. Naturally, a bundle of sheets of paper tightened together isn't as attractive as all those devices with 4k resolutions, face recognitions or AR/VR technologies included. All technology can truly be entertaining.
-
-Secondly, for a long period of time, I was heavily influenced by the tips of great minds like Bill Gates. In an interview for Quartz, he mentioned a rule that he personally follows when picking books to read, but neither did I know, this advice would cause more harm than good to me.
-
-*Bill Gates on how he reads books:*
+*Bill Gates' tips on reading:*
 {{< youtube eTFy8RnUkoU >}}
 
-It was this sentence that I stumbled upon: 
+I stumbled because of this quote:
 
 > "I don't let myself start a book that I'm not gonna finish"
 
-Following his rule, I would literally finish every book I started. It didn't matter whether it was an encyclopedia, novel, self-help book, or a magazine. I would read it wholly anyways because rules aren't meant to be broken. It wasn't until this year when I finally realized that this advice doesn't work quite well for me. I couldn't leave things unfinished, it felt just awkward. An unfinished book to me was like unfinished sex. You both were giving hope to each other, and then you suddenly decide to back out at the last minute. Who does that? Well, let's face the truth, not every book is meant to be finished.
+Following the footsteps of Bill Gates, I would literally finish every book I ever started. It didn't matter whether it was an encyclopedia, novel, book, or magazine. I would read it from start to end because, in my mind, his rules weren't meant to be broken because compared to myself, he's a billionaire, therefore he must know much more about wisdom than I do. To me, an unfinished book was like unfinished sex, and I couldn't leave things unfinished, it just felt awkward. But it wasn't until this year when I finally realized that his advice doesn't work quite well for me.
 
 ### How do I see it?
-The way how I see it, time is limited and with the amount of time given to us, there is only a specific number of books you will be able to read. Obviously, you won't be able to read all of the books ever produced and it shouldn't even be your goal to ever reach the upper bound. At this moment, let's just talk about the books we choose to read solely out of our interest or curiosity (no mandatory school reading, research papers, company handbooks, etc.).
+The time is limited and there is only a specific number of books you will be able to read. In other words, life is too short to be stuck with an uninteresting book by your definition. When it comes to reading, I believe what matters the most is how deeply a book resonates with you. In a sense, I would rather read one meaningful book twelve times than the other way around as [the law of diminishing returns](https://www.britannica.com/topic/diminishing-returns) is a big factor here.
 
-When it comes to book reading, I believe what matters the most is how deeply a book resonates with you. It is great if you can read twelve books per year, but it is not so great when you can't recall any of them. In this case, [the law of diminishing returns](https://www.britannica.com/topic/diminishing-returns) is a big factor here.
-It's not necessarily the count that is the issue, but how you engage with the content.
-Some of you might just simplify things by saying: "Oh, he is just talking about the quality over quantity concept", but that's not what I mean.
-
-Looking at the problem from the other end, how many books fascinated you enough that made you reread them at least twice? If you have already encountered a book like that, then congratulations those are exactly the gems, you are looking for. All in all, we are all looking for answers to our questions when we are reading. Looking for something that could either make our mind wonder for days or fill the information gap.
+Looking at the problem from the other end, how many books you've read so far have fascinated you enough that made you reread them? If you have already encountered a book like that, then congratulations those are exactly the Philosopher's stones of our world, you shall be looking for. Perhaps, when it comes to reading, we're looking for something that could either fill the information gap or make our minds wonder for days.
 
 ### Am I really interested in this book?
-When choosing a book, the single most important thing is to ask yourself whether this book will really bring value to you. I have encountered many occasions where somebody recommended me a book, and I started mindlessly reading it on the recommendation. It can be a hit or miss process, but not if you preread a chapter of it before you fully determine to start the book.
+When choosing a book, the single most important thing is to ask whether this book will really bring me value. So many times I started mindlessly reading a book on someone else's recommendation, but not dropping it because I didn't want to be rude. It can be a hit or miss process, but not if you preread a chapter of it before you fully determine to start the book.
 
-Sometimes, I pick a book that doesn't necessarily fit my taste. There is nothing wrong with disliking a book, but there is some borderline to it. Picking up books, it's just like buying bananas. People always go for the yellow ones and avoid the rest- green and brown ones. There is nothing wrong with them, simply customers are just not ready to accept them yet. My advice, you should never abandon a book, you never know when it might surprise you. When reading, be open to anything and everything. If you didn't like a book at the time, let it be, and let the time decide whether you will meet again.
+### Am I ready to accept the message?
+Sometimes, I pick a book that doesn’t necessarily fit my taste at the time of being. Picking up books, it’s just like buying bananas. People always go for the yellow ones and avoid the rest, the unattractive green or overripe bananas. I think there is nothing wrong with this as customers often don’t know what they want and have to wait for the green bananas to ripe or later appreciate the sweetness of brown ones. My advice is to never abandon a book—you never know when a book might surprise you. When reading be open to anything and everything and be willing to embrace the unexpectedness. If you didn’t like a book at the time, let it be, and let the time decide whether you will meet again.
 
-The most common scenario is when a book becomes boring. Truthfully, not every part of a book will give you the same amount of resourcefulness and enjoyment. That's when the [80/20 rule](https://www.briantracy.com/blog/personal-success/how-to-use-the-80-20-rule-pareto-principle/) comes to play. Services like Blinkist has their business plan built on this principle and like Francis Bacon says it:
+### Do I need to finish the book?
+What's important is to not confuse our short attention spans with boredom. A book can be delightful to us, but before going to the conclusion of saying a book is uninteresting, one should consider whether we've devoted enough attention to it. Truthfully, not every part of a book will give you the same amount of resourcefulness or enjoyment. And that's when the [80/20 rule](https://www.briantracy.com/blog/personal-success/how-to-use-the-80-20-rule-pareto-principle/) comes to play. I love this quote from Francis Bacon:
 
 > “Some books should be tasted, some devoured, but only a few should be chewed and digested thoroughly" - Francis Bacon
 
 ### Lastly, frequency doesn't matter
-For a long time, I tried to have a strict schedule for reading. For instance, I would set specific times during the day for my reading sessions. Now, I don't find inconsistency as an issue. There could be days when I'm not reading any book, and then days when I'm sinking deep into reading. Every year, I create a book list or have an estimated count of books I want to finish. What's most important to me, is always to get back on track with the goal.
+It's been always a failed battle for me to follow a strict schedule for reading. Now, I don't find inconsistency as an issue. There could be days when I'm not reading at all, and then days when I catch a voracious appetite and sink deep in the realms of fiction or nonfiction. Every year though, I create a book list or have a rough number of books I want to finish. Thus, the most important thing for me is to keep on going.
 
-Each of us functions a bit differently, and what works for others doesn't have to work for you. A piece of advice is good advice, only when it is beneficial to you, no matter who said or suggested it. Don't let the clout swallow you. If you made it here, I'm more than proud of you- it means a lot to me! All kinds of comments are welcome, stay well, and be cool :) [Click to find out what Senik is reading](https://www.notion.so/Reading-List-2020-54022983a6584f93ba0c4b108046cce7)
+In summary, each of us functions a bit differently, and what works for others doesn't have to work for you. A piece of advice is good advice, only when it is beneficial to you, no matter who said or suggested it. Don't let the clout swallow you. If you made it here, I'm more than proud of you- it means a lot to me! And as always all kinds of comments are welcome, stay well, and be cool :)
+
+[Click to find out what I'm reading in 2020](https://www.notion.so/Reading-List-2020-54022983a6584f93ba0c4b108046cce7)
+
+*Edit: Simplified syntax - April 17th, 2021*
 
 <!-- ##### Reading list 2020
 * ~~Deep Work~~ - 7/10

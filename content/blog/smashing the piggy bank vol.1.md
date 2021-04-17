@@ -1,5 +1,5 @@
 ---
-title: "smashing the 🐽 bank #2020 part1"
+title: "smashing the 🐽 bank vol.1"
 date: 2021-01-12
 slug: "smashing-the-piggy-bank-part1"
 description: "My best purchases of 2020 part 1"
@@ -64,7 +64,7 @@ I like sneakers but I'm not into the overpriced culture. A perfect balance of pr
 
 Never in my life, I would have thought how amazing a toaster can be. This one has six interchangeable plates for crepes, tortillas, waffles, and more. “Essen ist leckeres (Food is delicious),” is one of the only sentences I can produce with my rusty German.
 
-If you liked the content and recommendations, keep an eye on Part 2! And as always, thank you for your time!🙌
+If you liked the content and recommendations, keep an eye on Part 2! And as always, thank you for your time! 🙌
 
 
 
