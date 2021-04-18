@@ -1,6 +1,6 @@
 ---
 heading: "Hi, I'm Senik"
-subheading: "but for some reason people call me Sonic"
+subheading: "I prefer my puns intended"
 handle: "nmh 21' | frontend developer | art of breaking | filmmaker"
-title: "Senik | Not Sanik or Sonic"
+title: "Senik"
 ---

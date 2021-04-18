@@ -8,6 +8,8 @@ hugo new blog/:blog-post.md
 ---
 
 TODO:
+it would be cool if I could do a changing subheading
 fix Netlify CMS
-add Notion projects
 daily links?
+showPageTitleInTOC -> the problem is that I've forked it and it's not updating
+Comment section?
