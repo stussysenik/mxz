@@ -4,7 +4,7 @@ date: 2021-01-14
 slug: "iq"
 description: "Just a simple hello message"
 keywords: ["IQ","tests"]
-draft: false
+draft: true
 tags: ["thoughts"]
 stylesheet: "post.css"
 toc: true

@@ -3,13 +3,10 @@ languageCode = "en-us"
 title = "Senik"
 theme = "codex"
 ignoreErrors = ["error-remote-getjson"]
-copyright = "©MXZ{year}"
+copyright = "©MXZOU{year}"
 
 [params]
   twitter = "mx_zou"
-  github = "millzzzz"
-  linkedin = "mengxuanzou"
-  showPageTitleInTOC = true
 
 [markup]
   [markup.highlight]

@@ -4,7 +4,7 @@ date: 2020-07-06
 slug: "stop-creating-start-breaking"
 description: "A great tip on the process of learning"
 keywords: ["programming", "create", "make", "blog"]
-draft: false
+draft: true
 tags: ["learning"]
 stylesheet: "post.css"
 toc: true

@@ -4,7 +4,7 @@ date: 2020-07-27
 slug: "thoughts-on-reading"
 description: "My experience with reading and choosing books. How my approach to reading has shifted over the years."
 keywords: ["reading", "list", "books", "2020", "thoughts"]
-draft: false
+draft: true
 tags: ["learning"]
 stylesheet: "post.css"
 toc: true

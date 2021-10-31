@@ -4,7 +4,7 @@ date: 2021-01-10
 slug: "okay-so-whats-next"
 description: "Reflection on 2020"
 keywords: ["2020", "new year resolution", "purpose", "life"]
-draft: false
+draft: true
 tags: ["thoughts"]
 stylesheet: "post.css"
 ---

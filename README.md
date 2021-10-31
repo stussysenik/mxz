@@ -8,8 +8,14 @@ hugo new blog/:blog-post.md
 ---
 
 TODO:
-it would be cool if I could do a changing subheading
+it would be cool if I could do a changing subheading-> typing carousel
 fix Netlify CMS
 daily links?
-showPageTitleInTOC -> the problem is that I've forked it and it's not updating
+showPageTitleInTOC -> for some reason the styling isn't being shown
 Comment section?
+
+[params]
+  twitter = "mx_zou"
+  github = "millzzzz"
+  linkedin = "mengxuanzou"
+  showPageTitleInTOC = true

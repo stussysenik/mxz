@@ -4,7 +4,7 @@ date: 2021-01-12
 slug: "smashing-the-piggy-bank-part1"
 description: "My best purchases of 2020 part 1"
 keywords: ["best buys","2020","shopping","buy","purchase"]
-draft: false
+draft: true
 tags: ["yearly"]
 stylesheet: "post.css"
 ---

@@ -1,6 +1,6 @@
 ---
 heading: "Hi, I'm Senik"
-subheading: "I prefer my puns intended"
-handle: "nmh 21' | frontend developer | art of breaking | filmmaker"
-title: "Senik"
+subheading: "on the pursuit of art, science, and technology"
+handle: "computer science | philosophy | art of breaking | filmmaking"
+title: "mx.zou"
 ---
