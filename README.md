@@ -1,21 +1,19 @@
-# mxz
+<div align="center">
 
-## Simple portfolio built on HUGO with Codex theme with Netlify CMS
+# Mxz
 
-hugo new blog/:blog-post.md
 
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
+
+</div>
 
 ---
 
-TODO:
-it would be cool if I could do a changing subheading-> typing carousel
-fix Netlify CMS
-daily links?
-showPageTitleInTOC -> for some reason the styling isn't being shown
-Comment section?
+## Quick Start
 
-[params]
-  twitter = "mx_zou"
-  github = "millzzzz"
-  linkedin = "mengxuanzou"
-  showPageTitleInTOC = true
+```bash
+git clone https://github.com/stussysenik/mxz.git
+cd mxz
+```
