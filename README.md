@@ -1,19 +1,19 @@
-<div align="center">
+# mxz
 
-# Mxz
+Mxz
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html&logoColor=white)
 
+## About
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
+📦 **Project** built with HTML / CSS / JS.
 
-</div>
+<!-- 
+  Add a demo GIF here:
+  ![Demo](demo.gif)
+-->
+
 
 ---
 
-## Quick Start
-
-```bash
-git clone https://github.com/stussysenik/mxz.git
-cd mxz
-```
+*Built by [@stussysenik](https://github.com/stussysenik)*
